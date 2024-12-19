@@ -1,6 +1,6 @@
       
 
-I am software developer currently studying at Panjab University. If you feel like, you can ♥️ sponsor me.
+Hello there, I am a software developer currently studying at Panjab University.
 <!--
 **Obsidian-Ninja/Obsidian-Ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
