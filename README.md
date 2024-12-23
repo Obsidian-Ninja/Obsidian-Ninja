@@ -1,6 +1,11 @@
 # **👋 Hey there, I'm Gurvansh!**
 
-JavaScript | Python | C++ | Java | HTML | CSS | React | AWS | Linux | Git
+![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=c%2B%2B)
+![Code: Python](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python)
+![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+![Framework: Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)
+![Library: React.js](https://img.shields.io/badge/Library-React.js-blue?style=flat&logo=react)
+
 
 As a Computer Science Engineering student, I am passionate about building impactful software solutions and exploring emerging technologies. My focus lies in problem-solving, full-stack development, and cloud computing, turning challenges into opportunities for growth and innovation.
 
