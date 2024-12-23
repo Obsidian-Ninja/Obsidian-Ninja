@@ -7,9 +7,11 @@
 ![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
 ![Framework: Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)
 ![Library: React.js](https://img.shields.io/badge/Library-React.js-blue?style=flat&logo=react)
+![Tool: Git](https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=git)
+![Tool: GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat&logo=github)
 
 
-As a Computer Science Engineering student, I am passionate about building impactful software solutions and exploring emerging technologies. My focus lies in problem-solving, full-stack development, and cloud computing, turning challenges into opportunities for growth and innovation.
+As a Computer Science student, I am passionate about building impactful software solutions and exploring emerging technologies. My focus lies in problem-solving, full-stack development, and machine learning, turning challenges into opportunities for growth and innovation.
 
 🔭 Working on academic and personal projects to gain hands-on experience and insights.
 
