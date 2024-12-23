@@ -1,16 +1,14 @@
-👋 Hey there, I'm Ash!
+#👋 Hey there, I'm Gurvansh!
 
-Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.
+JavaScript | Python | C++ | Java | HTML | CSS | React | AWS | Linux | Git
 
-JavaScript Python PHP Laravel Next.js Vercel AWS Linux
+As a Computer Science Engineering student, I am passionate about building impactful software solutions and exploring emerging technologies. My focus lies in problem-solving, full-stack development, and cloud computing, turning challenges into opportunities for growth and innovation.
 
-With a strong focus on engineering leadership, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in customer experience and cloud and infrastructure technologies, where I turn complex challenges into opportunities for growth.
+🔭 Working on academic and personal projects to gain hands-on experience and insights.
 
-🔭 Leading teams on transformative projects to reshape industries.
+🌱 Continuously learning, collaborating with peers, and growing through mentorship and teamwork.
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
-
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+🚀 Driven to push my boundaries, embrace challenges, and contribute to a tech-driven future.
 <!--
 **Obsidian-Ninja/Obsidian-Ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
