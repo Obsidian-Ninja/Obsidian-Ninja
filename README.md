@@ -1,4 +1,4 @@
-#👋 Hey there, I'm Gurvansh!
+# **👋 Hey there, I'm Gurvansh!**
 
 JavaScript | Python | C++ | Java | HTML | CSS | React | AWS | Linux | Git
 
