@@ -1,4 +1,4 @@
-# **👋 Hey there, I'm Gurvansh!**
+# **<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/assets/hand_wave.gif" width="30px"> Hey there, I'm Gurvansh!**
 
 **Building the future, one line of code at a time.**
 
