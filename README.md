@@ -1,7 +1,5 @@
 # **👋 Hey there, I'm Gurvansh!**
 
-**Building the future, one line of code at a time.**
-
 ![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=c%2B%2B)
 ![Code: Python](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python)
 ![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
