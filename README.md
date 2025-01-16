@@ -9,7 +9,7 @@
 ![Tool: GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat&logo=github)
 
 
-As a Computer Science student, I am passionate about building impactful software solutions and exploring emerging technologies. My focus lies in problem-solving, full-stack development, and machine learning, turning challenges into opportunities for growth and innovation.
+Computer Science student with a passion for programming ;) 
 
 🔭 Working on academic and personal projects to gain hands-on experience and insights.
 
