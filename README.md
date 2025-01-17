@@ -11,6 +11,11 @@
 
 Computer Science student with a passion for programming ;) 
 
+🔭 Working on academic and personal projects to gain hands-on experience and insights.
+
+🌱 Continuously learning, collaborating with peers, and growing through mentorship and teamwork.
+
+🚀 Driven to push my boundaries, embrace challenges, and contribute to a tech-driven future.
 
 <!--
 **Obsidian-Ninja/Obsidian-Ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
