@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Hi there 👋
+
+I believe great things start with curiosity and a single line of code✨.
+
+📬 **Reach out to me on:** [dev.gurvansh.gupta@gmail.com](mailto:dev.gurvansh.gupta@gmail.com)
+
 
 <!--
 **Obsidian-Ninja/Obsidian-Ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
