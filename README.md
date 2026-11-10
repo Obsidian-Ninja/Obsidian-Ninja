@@ -1,29 +1,30 @@
 
 <div align="center">
 
-# Hello 👋, Welcome to my GitHub!
+# Hello :earth_asia:, Welcome to my GitHub profile !
 
-### I'm Gurvansh Gupta
+### I'm Gurvansh, a hobbyist developer. 
 
-Aspiring AI Developer | Software Engineer | Exploring the AI Ecosystem
+These repositories showcase a non-exhaustive collection of projects I've worked on, spanning <br/>
+AI, Software Development, and much more!
 
-I am passionate about building software, exploring artificial intelligence, and learning new technologies.
+<p>
+  More about me :  <br/><br/>
+  <span>
+  <a href="https://www.linkedin.com/in/gurvansh-gupta-b19550289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>
+  <a href="mailto:dev.gurvansh.gupta@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=gmail&logoColor=white" />   
+  </a>
+  <a href="https://gurvansh-gupta.com">
+    <img src="https://img.shields.io/badge/Webpage-black?style=for-the-badge&logo=readme&logoColor=white" />   
+  </a>
+  </span>
+</p>
+</div>
 
 ---
-
-### Connect with me
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
-### GitHub Contribution Snake 🐍
 
 <picture>
   <source
